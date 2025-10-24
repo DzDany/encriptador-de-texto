@@ -5,7 +5,6 @@
 **¡Bienvenido!**  
 Este es un proyecto de una página web en donde podrás encriptar y desencriptar texto.  
 Puedes ingresar todo lo que se te ocurra para encriptarlo y, a su vez, desencriptar dicho texto.  
-**¡Diviértete! 😉**
 
 ---
 
@@ -23,5 +22,3 @@ El objetivo principal de esta página es que tú puedas encriptar y desencriptar
   Además, hay una serie de botones abajo a la izquierda con los cuales podrás interactuar para encriptar y desencriptar el texto, y/o limpiar dicha área.
 
 ---
-
-**Espero mi proyecto te guste mucho y sea de tu agrado!** 😊
